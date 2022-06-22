@@ -16,3 +16,5 @@ How To Play:
 
 
 NOTE: The priority in this project is not aesthetics. The goal is to practice game development skills. 
+
+To Play: https://simmer.io/@jijojuje/rocket-game
